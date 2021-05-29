@@ -1,6 +1,6 @@
 # bitconnectCore.org
 
-**Software-Development-Kit Index And GitHub.com/bitconnectCore Information**
+**GitHub.com/bitconnectCore Information And Software-Development-Kit Index**
 
 Brief writeup, index of https://github.com/bitconnectCore and the abandoned bitconnect blockchain.
 
